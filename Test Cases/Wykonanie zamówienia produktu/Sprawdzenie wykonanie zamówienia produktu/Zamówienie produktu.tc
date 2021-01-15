@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Weryfikacja przebiegu procesu zamawiania produktu</description>
+   <name>Zamówienie produktu</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2cd2230a-65d9-41e5-9eef-ab433c2b1e6f</testCaseGuid>
+   <variable>
+      <defaultValue>'Your order has been dispatched, and will arrive just as fast as the pony can get there!'</defaultValue>
+      <description>Informacja potwierdzająca zrealizowanie zamówienia</description>
+      <id>ccd55846-3481-4ed8-b722-08c338507d5d</id>
+      <masked>false</masked>
+      <name>confirmation_msg_exp</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Logowanie do aplikacji z nieprawidłowymi danymi</description>
+   <name>Logowanie do aplikacji z błędynymi danymi</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>01109ca4-ef66-412c-8575-8a6a5320b26c</testCaseGuid>
+   <variable>
+      <defaultValue>'Epic sadface: Username and password do not match any user in this service'</defaultValue>
+      <description>Informacja o błędnych danych logowania</description>
+      <id>82e9bb92-2e0a-44b9-bca3-dd5655b3e58f</id>
+      <masked>false</masked>
+      <name>error_msg_exp</name>
+   </variable>
+</TestCaseEntity>

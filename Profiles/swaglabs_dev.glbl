@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>swaglabs_dev</name>
+   <tag></tag>
+   <defaultProfile>false</defaultProfile>
+   <GlobalVariableEntity>
+      <description>Adres strony SwagLabs</description>
+      <initValue>'https://www.saucedemo.com'</initValue>
+      <name>url</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Nazwa identyfikacyjna użytkownika</description>
+      <initValue>'standard_user'</initValue>
+      <name>user_id</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Hasło użytkownika</description>
+      <initValue>'qcu24s4901FyWDTwXGr6XA=='</initValue>
+      <name>pwd</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Imię Użytkownika</description>
+      <initValue>'Jan'</initValue>
+      <name>name</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Nazwisko użytkownika</description>
+      <initValue>'Kawalski'</initValue>
+      <name>surname</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Kod pocztowy użytkownika</description>
+      <initValue>'49-100'</initValue>
+      <name>zip_code</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Czas opóźnienia wczytywania kolejnego zestawu danych logowania</description>
+      <initValue>2</initValue>
+      <name>wait_a_sec</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

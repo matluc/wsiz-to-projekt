@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Logowanie do aplikacji SwagLabs z poprawnym uwierzytelnieniem</description>
+   <name>Logowanie do aplikacji z poprawnymi danymi</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8e4dc98f-2309-4902-a9b2-7490765d720c</testCaseGuid>
+   <variable>
+      <defaultValue>'Products'</defaultValue>
+      <description>Nazwa strony głównej aplikacji</description>
+      <id>92a21ef8-5bfd-4478-9e5e-b8d9233db0c2</id>
+      <masked>false</masked>
+      <name>mainpage_exp</name>
+   </variable>
+</TestCaseEntity>
